@@ -1,0 +1,8 @@
+D:\VS projects\Practice Interview Programs\Prime Number\bin\Debug\Prime Number.exe.config
+D:\VS projects\Practice Interview Programs\Prime Number\bin\Debug\Prime Number.exe
+D:\VS projects\Practice Interview Programs\Prime Number\bin\Debug\Prime Number.pdb
+D:\VS projects\Practice Interview Programs\Prime Number\obj\Debug\Prime Number.csproj.AssemblyReference.cache
+D:\VS projects\Practice Interview Programs\Prime Number\obj\Debug\Prime Number.csproj.SuggestedBindingRedirects.cache
+D:\VS projects\Practice Interview Programs\Prime Number\obj\Debug\Prime Number.csproj.CoreCompileInputs.cache
+D:\VS projects\Practice Interview Programs\Prime Number\obj\Debug\Prime Number.exe
+D:\VS projects\Practice Interview Programs\Prime Number\obj\Debug\Prime Number.pdb
