@@ -37,8 +37,6 @@ namespace Prime_Number
                 if (number % i == 0)
                     return false;
             }
-
-
             return true;
         }
     }
